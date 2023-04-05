@@ -1,8 +1,4 @@
 /* =================================================================== 
- * Infinity Main Stylesheet
- * Template Ver. 2.0.0
- * 12-17-2021
- * ------------------------------------------------------------------
  *
  * TOC:
  * # SETTINGS
@@ -3438,7 +3434,7 @@ img.u-pull-left {
 
 .s-about__desc {
     font-weight : 500;
-    font-size   : calc(var(--text-desc-size) * var(--text-multiplier));
+    font-size   : 30px;
     line-height : 1.5385;
     margin-top  : var(--vspace-1_5);
 }
